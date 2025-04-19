@@ -4,7 +4,7 @@ This repository contains two separate Retrieval-Augmented Generation (RAG) proje
 
 1. **RAG_OpenAI_FullArxiv**: Uses OpenAI embeddings and LLM (GPT-4) over the full arXiv corpus.  
 2. **Corpus_RAG_OpenAI**: A lightweight demo on a tiny, hand-picked 6-document corpus using OpenAI.  
-3. **GenAI_RAG**: Gemini-powered RAG system using Google Generative AI embeddings and LLM via LangChain.
+
 
 ---
 
