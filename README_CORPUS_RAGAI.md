@@ -4,7 +4,7 @@
 
 ### Introduction
 
-RAG_CORPUS is a minimal Retrieval‑Augmented Generation prototype built on a hand‑picked 6‑document corpus. It demonstrates the entire RAG pipeline—embedding, retrieval, citation‑aware prompting, evaluation, and a simple Gradio UI—in under 2 minutes.
+RAG_CORPUS is a minimal Retrieval‑Augmented Generation prototype built on a hand‑picked 6 document corpus. It demonstrates the entire RAG pipeline embedding, retrieval, citation aware prompting, evaluation, and a simple Gradio UI in under 2 minutes.
 
 ---
 
